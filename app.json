@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/posters/posters1/posters1",
+    "pages/posters/posters2/posters2"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#1d1443",
+    "navigationBarTitleText": "海报图",
+    "navigationBarTextStyle": "#fff",
+    "backgroundColor": "#1d1443"
+  }
+}
